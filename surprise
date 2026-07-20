@@ -1,0 +1,23 @@
+Birthday-Surprise/
+
+index.html
+
+css/
+   style.css
+   animations.css
+   responsive.css
+
+js/
+   app.js
+   music.js
+   fireworks.js
+   confetti.js
+   typing.js
+
+assets/
+   music/
+   stickers/
+   icons/
+   fonts/
+
+README.md
